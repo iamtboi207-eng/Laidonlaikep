@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.image("IMG_8843.jpeg")
 # Tiêu đề ứng dụng
 st.title("Trần Ngọc Cát Tường")
 
